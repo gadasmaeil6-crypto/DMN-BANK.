@@ -22,7 +22,7 @@ import time
 import asyncio
 
 # --- [1] الإعدادات الأساسية ---
-TOKEN = "MTQ1NTM0OTk1MDE1NzE2MDY0NA.GE3XYw.S1QfZNpewbWaVhaVNw76RbzFJejCWlE_y3piFs"
+TOKEN = "MTQ1NTM0OTk1MDE1NzE2MDY0NA.Gxh9up.S6hKf_phBUCaVY7E56SAPu2TtWXOGaPNmN4YUE"
 OWNER_ID = 1382412153490898955 
 
 intents = discord.Intents.all()
@@ -317,4 +317,4 @@ async def on_message(message):
 
 keep_alive()
 
-bot.run('MTQ1NTM0OTk1MDE1NzE2MDY0NA.GE3XYw.S1QfZNpewbWaVhaVNw76RbzFJejCWlE_y3piFs')
+bot.run('MTQ1NTM0OTk1MDE1NzE2MDY0NA.Gxh9up.S6hKf_phBUCaVY7E56SAPu2TtWXOGaPNmN4YUE')
